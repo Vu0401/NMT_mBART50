@@ -1,4 +1,4 @@
-# NMT_mBART50
+# NMT_mBART50-Machine-Translation
 
 This repository focuses on Neural Machine Translation (NMT) using the `facebook/mbart-large-50-many-to-many-mmt` model. It utilizes the `mt_eng_vietnamese` dataset from `iwslt2015-en-vi`.
 
