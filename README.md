@@ -14,10 +14,6 @@ The model's performance is evaluated using the BLEU (Bilingual Evaluation Unders
 
 The BLEU score is a widely used metric for evaluating the quality of machine-translated text. It ranges from 0 to 100, where a higher score indicates a closer match to the reference translations. A BLEU score of 34.871400 suggests that the model performs quite well in translating between English and Vietnamese, achieving a substantial level of accuracy and fluency. While not perfect, this score indicates that the translations are generally of good quality and useful for practical applications.
 
-## Checkpoint
-
-You can download the model checkpoint from the following link: [Checkpoint](https://drive.google.com/drive/folders/1ii_lPm2-1CfIhQM8RVzLgTHMxXDKgnk4?usp=sharing)
-
 ## Inference
 
 To perform inference using the model, you can use the following example:
